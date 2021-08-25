@@ -1,4 +1,3 @@
-# cmake-course
-## CodeIter.com - CMake Course
+# CodeIter.com - CMake Course
 
-Repository for Course: https://codeiter.com/en/categories/cmake
+Repository for course available here: https://codeiter.com/en/categories/cmake
